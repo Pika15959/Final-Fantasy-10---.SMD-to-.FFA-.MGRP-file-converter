@@ -12,3 +12,6 @@ Note:
 
 2) You need Blender Source Tools Addon to import and export .smd models and animations.
 (Though I may work on ways to do this with other more common file formats e.g. FBX or .DAE files in the future)
+
+
+Special thanks to Pfedak who found the final piece of the puzzle that was stalling me on this for the past few months!
